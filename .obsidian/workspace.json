@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "686e8fc7165e46f1",
+        "id": "5ed115f8d0062498",
         "type": "tabs",
         "children": [
           {
-            "id": "f8efa2f18a45e6d3",
+            "id": "16c663e3cf375054",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -174,11 +174,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f8efa2f18a45e6d3",
+  "active": "16c663e3cf375054",
   "lastOpenFiles": [
+    "Заметки/JavaScript.md",
+    "Заметки/Деструктуризация массивов.md",
     "Заметки/React.md",
-    "Заметки/JSX.md",
+    "Заметки/Состояние компонента (state).md",
     "Заметки/Что такое React JS.md",
+    "Заметки/JSX.md",
     "Templates/Шаблон заметки.md",
     "Заметки/Без названия.md",
     "Заметки/заметка1.md",
