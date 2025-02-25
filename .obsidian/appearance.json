@@ -1,3 +1,7 @@
 {
-  "accentColor": "#20a7a5"
+  "accentColor": "#20a7a5",
+  "cssTheme": "Minimal",
+  "baseFontSize": 18,
+  "monospaceFontFamily": "Consolas",
+  "textFontFamily": ""
 }

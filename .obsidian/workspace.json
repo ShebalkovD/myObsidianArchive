@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4ce7e864838843bf",
+        "id": "686e8fc7165e46f1",
         "type": "tabs",
         "children": [
           {
-            "id": "247ff3e03d056c8b",
+            "id": "f8efa2f18a45e6d3",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -27,11 +27,11 @@
     "type": "split",
     "children": [
       {
-        "id": "df8e24983fe2bd39",
+        "id": "8b55995d4acdef43",
         "type": "tabs",
         "children": [
           {
-            "id": "8eeee56fa2cabc11",
+            "id": "d329cba65462684a",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -44,7 +44,7 @@
             }
           },
           {
-            "id": "511f6ba21bab3b8e",
+            "id": "f2fd082fa5024977",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -61,7 +61,7 @@
             }
           },
           {
-            "id": "95c33219fca893a2",
+            "id": "fc4b31872c78a101",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -74,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 208.5
   },
   "right": {
     "id": "ee29474ca538a97e",
@@ -90,6 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Заметки/React.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +100,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки"
+              "title": "Обратные ссылки для React"
             }
           },
           {
@@ -108,11 +109,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Заметки/React.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки"
+              "title": "Исходящие ссылки из React"
             }
           },
           {
@@ -159,19 +161,32 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 260.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-git:Open Git source control": false,
       "switcher:Меню быстрого перехода": false,
       "graph:Граф": false,
       "canvas:Создать новый холст": false,
       "daily-notes:Сегодняшняя заметка": false,
       "templates:Вставить шаблон": false,
-      "command-palette:Открыть палитру команд": false
+      "command-palette:Открыть палитру команд": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "247ff3e03d056c8b",
-  "lastOpenFiles": []
+  "active": "f8efa2f18a45e6d3",
+  "lastOpenFiles": [
+    "Заметки/React.md",
+    "Заметки/JSX.md",
+    "Заметки/Что такое React JS.md",
+    "Templates/Шаблон заметки.md",
+    "Заметки/Без названия.md",
+    "Заметки/заметка1.md",
+    "Без названия.canvas",
+    "Заметки/заметка2.md",
+    "Проекты",
+    "Заметки",
+    "Templates",
+    "Files"
+  ]
 }

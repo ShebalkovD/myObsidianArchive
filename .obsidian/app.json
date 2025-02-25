@@ -1,1 +1,7 @@
-{}
+{
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "folder",
+  "attachmentFolderPath": "Files",
+  "newFileFolderPath": "Заметки",
+  "showLineNumber": false
+}
