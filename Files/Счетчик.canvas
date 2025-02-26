@@ -1,0 +1,29 @@
+{
+	"nodes":[
+		{"id":"cdfe45d4204106be","x":-420,"y":-20,"width":250,"height":60,"color":"6","type":"text","text":"Приложение счетчик"},
+		{"id":"d4ec8ae2c491c263","x":7,"y":-120,"width":250,"height":60,"color":"5","type":"text","text":"Интерфейс"},
+		{"id":"54495d50e833ca0e","x":358,"y":-227,"width":250,"height":60,"color":"5","type":"text","text":"Заголовок"},
+		{"id":"70e124ff3cb270d4","x":358,"y":-120,"width":250,"height":60,"color":"5","type":"text","text":"Число счетчика"},
+		{"id":"864876a6f72eccf0","x":368,"y":-23,"width":250,"height":60,"color":"5","type":"text","text":"Кнопки"},
+		{"id":"4afcb36038ca71c3","x":760,"y":-75,"width":250,"height":60,"color":"5","type":"text","text":"Кнопка плюс"},
+		{"id":"2850b4da66a73d9d","x":753,"y":21,"width":250,"height":60,"color":"5","type":"text","text":"Кнопка минус\n"},
+		{"id":"9706de87e701cad1","x":760,"y":-227,"width":250,"height":60,"color":"5","type":"text","text":"Название приложения"},
+		{"id":"decdba7b7c3a84ad","type":"text","text":"Функции","x":7,"y":220,"width":250,"height":60,"color":"5"},
+		{"id":"9d2a253c789b9252","type":"text","text":"Нажатие на кнопку минус уменьшает значение счетчика\n","x":368,"y":280,"width":382,"height":60,"color":"5"},
+		{"id":"cf282c205d21046f","x":368,"y":190,"width":382,"height":60,"color":"5","type":"text","text":"Нажатие на кнопку плюс увеличивает значение счетчика\n"},
+		{"id":"7484087165ca82db","x":-1240,"y":-199,"width":590,"height":400,"type":"file","file":"Заметки/Счетчик.md"}
+	],
+	"edges":[
+		{"id":"dcecf2b8f15f9af1","fromNode":"cdfe45d4204106be","fromSide":"right","toNode":"d4ec8ae2c491c263","toSide":"left"},
+		{"id":"511e77a15faa0d0f","fromNode":"cdfe45d4204106be","fromSide":"right","toNode":"decdba7b7c3a84ad","toSide":"left"},
+		{"id":"47a75aa25e89bf17","fromNode":"d4ec8ae2c491c263","fromSide":"right","toNode":"54495d50e833ca0e","toSide":"left"},
+		{"id":"5d1f6e5560949605","fromNode":"d4ec8ae2c491c263","fromSide":"right","toNode":"70e124ff3cb270d4","toSide":"left"},
+		{"id":"f62b75d8899bedd8","fromNode":"d4ec8ae2c491c263","fromSide":"right","toNode":"864876a6f72eccf0","toSide":"left"},
+		{"id":"10187bc64875a2a2","fromNode":"864876a6f72eccf0","fromSide":"right","toNode":"4afcb36038ca71c3","toSide":"left"},
+		{"id":"c71396031931f1dc","fromNode":"864876a6f72eccf0","fromSide":"right","toNode":"2850b4da66a73d9d","toSide":"left"},
+		{"id":"f79e9b5c4a1635fe","fromNode":"54495d50e833ca0e","fromSide":"right","toNode":"9706de87e701cad1","toSide":"left"},
+		{"id":"91df383865bb3514","fromNode":"decdba7b7c3a84ad","fromSide":"right","toNode":"cf282c205d21046f","toSide":"left"},
+		{"id":"c33d03eac7cad682","fromNode":"decdba7b7c3a84ad","fromSide":"right","toNode":"9d2a253c789b9252","toSide":"left"},
+		{"id":"0f1d7337ee4579cb","fromNode":"7484087165ca82db","fromSide":"right","toNode":"cdfe45d4204106be","toSide":"left"}
+	]
+}

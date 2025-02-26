@@ -8,6 +8,13 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
+      "query": "tag:#проект  ",
+      "color": {
+        "a": 1,
+        "rgb": 16743168
+      }
+    },
+    {
       "query": "tag:#react  ",
       "color": {
         "a": 1,
@@ -27,11 +34,11 @@
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
-  "collapse-forces": true,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
+  "collapse-forces": false,
+  "centerStrength": 0.343425605536332,
+  "repelStrength": 10.7439446366782,
   "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 0.7545958344007745,
+  "linkDistance": 174,
+  "scale": 1.0000000000000027,
   "close": true
 }
