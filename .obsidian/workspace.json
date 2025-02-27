@@ -23,7 +23,7 @@
             }
           },
           {
-            "id": "8da17994ade7b752",
+            "id": "9ec5fe594b8a46c7",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -35,6 +35,18 @@
               },
               "icon": "lucide-file",
               "title": "Квиз"
+            }
+          },
+          {
+            "id": "e37397f7583dcb4a",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/квиз_экран_создания.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "квиз_экран_создания"
             }
           }
         ],
@@ -196,11 +208,12 @@
       "obsidian-excalidraw-plugin:Создать новый чертеж": false
     }
   },
-  "active": "8da17994ade7b752",
+  "active": "9ec5fe594b8a46c7",
   "lastOpenFiles": [
     "Заметки/Проекты Web.md",
     "Excalidraw/квиз план.md",
     "Заметки/Квиз.md",
+    "Excalidraw/квиз_экран_создания.md",
     "Excalidraw/Drawing 2025-02-26 13.36.15.excalidraw.md",
     "Excalidraw",
     "Заметки/Что такое React JS.md",
